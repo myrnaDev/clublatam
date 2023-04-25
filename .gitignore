@@ -1,3 +1,10 @@
+### Fonts ###
+*.eot
+*.woff
+*.woff2
+*.otf
+*.ttf
+
 ### Images ###
 # JPEG
 *.jpg
